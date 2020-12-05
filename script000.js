@@ -1,5 +1,5 @@
 if ((navigator.userAgent.indexOf('iPhone') > 0 && navigator.userAgent.indexOf('iPad') == -1) || navigator.userAgent.indexOf('iPod') > 0 || navigator.userAgent.indexOf('Android') > 0) {
-    location.href = '/ikitemb/';
+    location.href = '/fotomb/';
 }
 
 
@@ -27,9 +27,9 @@ $(document).ready(function(){
 
  $("h2").hover(
    function(){
-  $("h2").html("あなたは決して一人ぼっちではありません<br>話を聞かせてください");
+  $("h2").html("見るだけで心が癒されるような写真です。");
 },function(){
-   $("h2").html("もしあなたが自殺を考えたらあなたの身の回りには多くの相談窓口があります<br>そこに相談しましょう");
+   $("h2").html("あなたが撮影した、素敵な写真を送ってください。");
 });
 
 $("#btn1").hover(
