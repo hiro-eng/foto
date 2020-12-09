@@ -75,6 +75,10 @@ text-shadow:black 3px 3px 3px;
  text-shadow:black 2px 2px 2px;
 }
 
+h2{
+  font-size:40px;
+}
+
 .heading{
 text-align:center;
 }
