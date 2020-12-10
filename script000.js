@@ -13,11 +13,7 @@ window.onload = function(){
 $(document).ready(function(){
  
   
-  $(".header-list").click(function(){
-       $(".header-list").html("<b>ikite2021@gmail.com</b>");
-
-});
-
+ 
   $("#teck").hover(
     function(){
    $("#teck").text(" >>>>>Welcome");
