@@ -75,18 +75,18 @@ width:100%;
 }
 .top-wrapper h1{
 font-weight:bold;
-font-size:60px;
+font-size:40px;
 padding-top:150px;
 text-shadow:black 4px 4px 4px;
 }
 .top-wrapper p{
  font-weight:bold;
- font-size:28px;
+ font-size:26px;
  text-shadow:black 2px 2px 2px;
 }
 
 h2{
-  font-size:38px;
+  font-size:36px;
 }
 
 .heading{
@@ -98,31 +98,31 @@ text-align:center;
 list-style:none;
 }
 .box1{
-font-size:24px;
+font-size:22px;
 width:800px;
 padding:10px;
 margin:10px auto;
 }
 .box2{
-font-size:24px;
+font-size:22px;
 width:800px;
 padding:10px;
 margin:10px auto;
 }
 .box3{
-font-size:24px;
+font-size:22px;
 width:800px;
 padding:10px;
 margin:10px auto;
 }
 .box4{
-font-size:24px;
+font-size:22px;
 width:800px;
 padding:10px;
 margin:10px auto;
 }
 .box5{
-font-size:24px;
+font-size:22px;
 width:800px;
 padding:10px;
 margin:10px auto;
